@@ -1,7 +1,7 @@
 const Footer = () => {
-    return ( <h2>
+    return ( <footer>
         Copyright 2021 Ninja List
-    </h2> );
+    </footer> );
 }
  
 export default Footer;
